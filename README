@@ -1,0 +1,4 @@
+Inline translator for MobileSafari.
+To build, register an account for Bing translate services, substitute your app key in the init() function, and `make'.
+
+Tested on iOS 4.2. Released into the public domain.

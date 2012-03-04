@@ -1,0 +1,11 @@
+Package: org.h2co3.explainit
+Name: ExplainIt
+Version: 0.1
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, org.h2co3.bingtranslate
+Depiction: http://h2co3.tk/
+Description: Translate any foreign language text to your native language (iOS system language) on a webpage, right from Safari! Just select a bunch of text, hit Translate and wait a second!
+Author: Arpad Goretity (H2CO3) <arpad.goretity@gmail.com>
+Maintainer: Arpad Goretity (H2CO3) <arpad.goretity@gmail.com>
+
